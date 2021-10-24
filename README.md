@@ -18,7 +18,7 @@ Furthermore, unit tess are provided that can run by executing shopping.test.Test
 
 Comments are provided in the code and test cases for briefly describe the functionality and approach.
 
-In case of any errors make sure that the jars under the lib folder is included in the bild path.
+In case of any errors make sure that the jars under the lib folder is included in the build path.
 
 # The Solution
 
