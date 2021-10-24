@@ -6,7 +6,7 @@ On a retail website, the following discounts apply:
 4.For every $100 on the bill, there would be a $ 5 discount (e.g. for $ 990, you get $ 45 as a discount).
 5.The percentage based discounts do not apply on groceries.
 6.A user can get only one of the percentage based discounts on a bill.
-# general Information
+# General Information
 The project is based on a small java program to simulate the retail discounts which uses the following technologies:
 
 Java 1.8
@@ -20,7 +20,7 @@ Comments are provided in the code and test cases for briefly describe the functi
 
 In case of any errors make sure that the jars under the lib folder is included in the bild path.
 
-#General Information regarding the solution
+# The Solution
 
 Items represent goods/products that can be placed in the cart.
 
